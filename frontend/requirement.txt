@@ -1,0 +1,8 @@
+when artist add additional shows to their ticketmaster event page i would like to get alerted instantly
+recently, I received this project from client.
+for example this artist kept adding shows and the only way to figure it out was to just keep refreshing and looking through
+https://www.ticketmaster.com/matt-rife-tickets/artist/2431961?ac_link=NTM_MattRife2023_spotlight_1
+yesterday he kept adding additional shows
+and it was a pain to try to figure out which ones were new
+i was looking for something to alert my instantly once a new show is added to an artist page on TM
+in theory i could have it scan a tm event page and when a new event is added i would get an alert.

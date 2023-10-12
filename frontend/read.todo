@@ -1,0 +1,28 @@
+TODO LIST 
+✔ Create a table with necessary props @done(22-03-15 15:34)
+✔ Create a detail page @done(23-03-15 13:35)
+✔ Create the basepoint and fetch the data @done(23-03-15 13:35)
+✔ Table Header control @done(23-03-19 14:11)
+ ✔  size*page < 1000, use this to find max num of pages @done(23-03-19 14:10)
+✔ Detail Page @critical @done (19.03.2023 23:52:30)
+✔ Table Sorf Feature @done (19.03.2023 21:31:52)
+ ✔ Send Query Params of Sort @done (19.03.2023 21:31:53)
+ ✔ Decide Sorting Feature @done (19.03.2023 21:31:54)
+ ✔ Change Header Object, add Keys @done (19.03.2023 21:31:56)
+ ✔ Test Query Params @done (19.03.2023 21:32:00)
+ ✔ Test several pages to avoid cell corruptions @done (19.03.2023 21:32:20)
+ ✔ Ascending is done, prepare for descending @today @done (19.03.2023 23:52:16)
+✔ Pagination Component @critical @done (19.03.2023 21:32:24)
+ ✔ Send parameters to content to fetch data properly @done(23-03-19 14:12)
+ ✔ Test @low @done (19.03.2023 23:52:20)
+✔ Add styling to detail page @high @done (19.03.2023 23:52:25)
+✔ Add styling to table  @high @done (19.03.2023 23:52:27)
+✔ Detail Sayfasına Loader Eklenmesi @done (20.03.2023 01:25:39)
+✔ Navbar linklerinin doldurulması @low @done(23-03-20 12:36)
+✔ Header komponentleştirilmesi @today @done(23-03-20 12:36)
+✔ Loader elementinin komponentleştirilmesi @today @done(23-03-20 12:50)
+✔ Detail Sayfasında arama yapıldığında ana sayfaya yönlendirilmesi @today @done(23-03-20 12:50)
+✔ Detail Page Çeşitli Sayfalarda Kontrolü @high @done(23-03-20 14:24)
+☐ Detail Page en yüksek çözünürlüklü görselin gösterilmesi çalışması, görsel boyutu optimizasyonu @low 
+☐ Test aşamaları eklenmesi
+
